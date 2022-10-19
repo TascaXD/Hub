@@ -1,5 +1,5 @@
 <head>
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="style.cs">
 </head>
 
  <h2><strong>Página principal do meu github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios.</strong></h2>
