@@ -35,4 +35,9 @@
  </a>
  </ul>
  <h4>DESAFIOS DO MÓDULO 2:</h4>
+ <ul>
+ <a href="https://tascaxd.github.io/modulo-2/pagina2.html">
+     <li>Site do mascote do Android</li>
+ </a>
+ </ul>
 
