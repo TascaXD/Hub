@@ -1,7 +1,7 @@
 <head>
    <link rel="stylesheet" href="css/style.css">
 </head>
- <strong>Página principal do meu github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios.</strong> <br>
+ <h2><strong>Página principal do meu github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios.</strong></h2> <br>
  CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO: <br>
  DESAFIOS DO MÓDULO 1:
  <ul>
