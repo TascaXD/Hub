@@ -42,9 +42,9 @@
  <ul>
 <a href="https://tascaxd.github.io/modulo-3/desafio%20cordel/cordel.html">
      <li>Site do Cordel Moderno</li></a>
-<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/tabelas.html">
+<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table.html">
      <li>Desafio tabela 1</li></a>
-<a href="https://tascaxd.github.io/modulo-3desafio%20tabelas/tabelas2.html">
+<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table2.html">
      <li>Desafio tabela 2</li></a>
  </ul>
 
