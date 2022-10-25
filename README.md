@@ -40,11 +40,11 @@
  </ul>
  <h4>DESAFIOS DO MÓDULO 3:</h4>
  <ul>
-<a href="https://tascaxd.github.io/modulo-3/tree/main/desafio%20tabelas/cordel.html">
+<a href="https://tascaxd.github.io/modulo-3/desafio%20cordel/cordel.html">
      <li>Site do Cordel Moderno</li></a>
-<a href="https://tascaxd.github.io/modulo-3/tree/main/desafio%20tabelas/tabelas.html">
+<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/tabelas.html">
      <li>Desafio tabela 1</li></a>
-<a href="https://tascaxd.github.io/modulo-3/tree/main/desafio%20tabelas/tabelas2.html">
+<a href="https://tascaxd.github.io/modulo-3desafio%20tabelas/tabelas2.html">
      <li>Desafio tabela 2</li></a>
  </ul>
 
