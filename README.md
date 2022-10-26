@@ -46,6 +46,8 @@
      <li>Desafio tabela 1</li></a>
 <a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table2.html">
      <li>Desafio tabela 2</li></a>
+<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table3.html">
+     <li>Desafio tabela 3</li></a>
  </ul>
 
 
