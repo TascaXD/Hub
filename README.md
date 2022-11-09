@@ -53,4 +53,6 @@
 <h3>OUTROS DESAFIOS:</h3> 
 <h4>Desafio da Netflix</h4>
 <a href="https://tascaxd.github.io/NETFLIX/netflix.html">
-     <ul><li>Pagina principal da Netflix</li></a></ul>
+     <ul>
+     <a><li>Pagina principal da Netflix</li></a>
+     </ul>
