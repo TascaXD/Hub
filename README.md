@@ -1,6 +1,14 @@
- <script src="script.js"></script>
- <link rel="stylesheet" href="style.css">
- <h2><strong>Esta é a página principal do meu site hospedado no github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios.</strong></h2>
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github TascaXD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2><strong>Esta é a página principal do meu site hospedado no github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios.</strong></h2>
  <h3>
  Acesse os PDF's dos desafios clicando <a href="https://github.com/TascaXD">AQUI</a>, basta ir ao módulo desejado, o desafio desejado e ir no PDF.</h3>
  <h3>CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO:</h3> 
@@ -77,4 +85,11 @@
  </a>
  </ul>
 
+ 
+
+    
+ <script src="script.js"></script>
+</body>
+</html>
+ 
  

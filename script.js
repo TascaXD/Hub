@@ -1,4 +1,4 @@
-<script>
+
 let menu = document.querySelector('#desafios-menu');
 let icon = document.querySelector('#menu-icon');
 
@@ -19,4 +19,4 @@ icon.addEventListener('mouseenter', function(){
 icon.addEventListener('mouseleave', function(){
   icon.style.color = "black";
 });
-    </script>
+
