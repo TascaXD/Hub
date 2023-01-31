@@ -58,3 +58,12 @@
      <li>Pagina principal da Netflix</li>
  </a>
  </ul>
+
+ <h4>DESAFIO TESTE DE MEDIA QUERIES:</h4>
+  
+  <ul>
+ <a href="https://tascaxd.github.io/desafio-mq/index.html">
+     <li>Site responsivo para celular e telas +768px</li>
+ </a>
+ </ul>
+
