@@ -1,9 +1,11 @@
+ <script src="script.js"></script>
+ <link rel="stylesheet" href="style.css">
  <h2><strong>Esta é a página principal do meu site hospedado no github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios.</strong></h2>
  <h3>
  Acesse os PDF's dos desafios clicando <a href="https://github.com/TascaXD">AQUI</a>, basta ir ao módulo desejado, o desafio desejado e ir no PDF.</h3>
  <h3>CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO:</h3> 
- <h4>DESAFIOS DO MÓDULO 1:</h4>
- <ul>
+   <h4 id="desafios-header">DESAFIOS DO MÓDULO 1 <span id="menu-icon">⇨</span> </h4>
+    <ul id="desafios-menu">
  <a href="https://tascaxd.github.io/modulo-1/DESAFIO%201/desafio1.html">
      <li>Desafio 1</li>
  </a>
@@ -75,3 +77,4 @@
  </a>
  </ul>
 
+ 
