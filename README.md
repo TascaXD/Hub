@@ -11,8 +11,8 @@
  <h3>
  Acesse os PDF's dos desafios clicando <a href="https://github.com/TascaXD">AQUI</a>, basta ir ao módulo desejado, o desafio desejado e ir no PDF.</h3>
  <h3>CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO:</h3> 
-   <h4 id="desafios-header">DESAFIOS DO MÓDULO 1 <span id="menu-icon">⇨</span> </h4>
-    <ul id="desafios-menu">
+   <h4>DESAFIOS DO MÓDULO 1 <span class="menu-icon">⇨</span> </h4>
+    <ul class="desafios-menu">
  <a href="https://tascaxd.github.io/modulo-1/DESAFIO%201/desafio1.html">
      <li>Desafio 1</li>
  </a>
@@ -41,14 +41,14 @@
      <li>Desafio 9</li>
  </a>
  </ul>
- <h4 id="desafios-header">DESAFIOS DO MÓDULO 2: <span id="menu-icon">⇨</span></h4>
- <ul id="desafios-menu">
+ <h4>DESAFIOS DO MÓDULO 2:<span class="menu-icon">⇨</span></h4>
+ <ul class="desafios-menu">
  <a href="https://tascaxd.github.io/modulo-2/pagina2.html">
      <li>Site do mascote do Android</li>
  </a>
  </ul>
- <h4>DESAFIOS DO MÓDULO 3:</h4>
- <ul>
+ <h4>DESAFIOS DO MÓDULO 3:<span class="menu-icon">⇨</span></h4>
+ <ul class="desafios-menu">
 <a href="https://tascaxd.github.io/modulo-3/desafio%20cordel/cordel.html">
      <li>Site do Cordel Moderno</li></a>
 <a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table.html">
