@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
-#desafios-header {
+.desafios-header {
     cursor: pointer;
   }
   
-  #desafios-menu {
+  .desafios-menu {
     display: none;
   }
   
