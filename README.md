@@ -67,3 +67,11 @@
  </a>
  </ul>
 
+  <h4>DESAFIO DE DESENHAR COM CSS:</h4>
+  
+  <ul>
+ <a href="https://tascaxd.github.io/projeto-relogio/relogio.html">
+     <li>Relógio</li>
+ </a>
+ </ul>
+
