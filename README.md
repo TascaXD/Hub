@@ -1,10 +1,9 @@
- <!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Github TascaXD</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -42,8 +41,8 @@
      <li>Desafio 9</li>
  </a>
  </ul>
- <h4>DESAFIOS DO MÓDULO 2:</h4>
- <ul>
+ <h4 id="desafios-header">DESAFIOS DO MÓDULO 2: <span id="menu-icon">⇨</span></h4>
+ <ul id="desafios-menu">
  <a href="https://tascaxd.github.io/modulo-2/pagina2.html">
      <li>Site do mascote do Android</li>
  </a>
