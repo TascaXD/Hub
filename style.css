@@ -1,8 +1,8 @@
 @charset "UTF-8";
 *{
-  color: rgba(255, 255, 255, 0.863);
   text-shadow: 1px 1px 1px black;
 }
+body{color: white;}
 span {
     cursor: pointer;
   }
@@ -26,9 +26,12 @@ li:hover{
 a,li,ul{
   width: fit-content;
 }
-a:visited{
-  color: blueviolet;
+a:link{
+  color: white;
 }
+a:visited{
+  color: rgba(255, 3, 3, 0.295);
+} 
 
 #cor{
  color:#0366d6;
