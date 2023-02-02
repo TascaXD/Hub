@@ -26,4 +26,11 @@ li:hover{
 a,li,ul{
   width: fit-content;
 }
+a:visited{
+  color: blueviolet;
+}
 
+#cor{
+ color:#0366d6;
+ display: inline-block;
+}
