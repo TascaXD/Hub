@@ -1,4 +1,8 @@
 @charset "UTF-8";
+*{
+  color: rgba(255, 255, 255, 0.863);
+  text-shadow: 1px 1px 1px black;
+}
 span {
     cursor: pointer;
   }
@@ -6,4 +10,20 @@ span {
   .desafios-menu {
     display: none;
   }
-  
+
+ body{
+background: linear-gradient(to right,
+rgb(70, 105, 170),
+rgb(100, 145, 200),
+rgb(120, 170, 225),
+rgb(141, 178, 230),
+rgb(147, 173, 231));
+ }
+
+li:hover{
+  color: rgba(255, 255, 255, 0.493);
+}
+a,li,ul{
+  width: fit-content;
+}
+

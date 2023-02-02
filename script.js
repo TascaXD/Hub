@@ -18,6 +18,6 @@ icons.forEach((icon, index) => {
   });
 
   icon.addEventListener('mouseleave', function(){
-    icon.style.color = "black";
+    icon.style.color = "white";
   });
 });
