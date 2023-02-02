@@ -20,17 +20,17 @@ rgb(141, 178, 230),
 rgb(147, 173, 231));
  }
 
-li:hover{
+li,#aqui:hover{
   color: rgba(255, 255, 255, 0.493);
 }
 a,li,ul{
   width: fit-content;
 }
 a:link{
-  color: white;
+  color: #0366d6;
 }
 a:visited{
-  color: rgba(255, 3, 3, 0.295);
+  color: white;
 } 
 
 #cor{
