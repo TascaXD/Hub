@@ -9,7 +9,7 @@
 
 <body>
 
-<h2><strong>Esta é a página principal do meu site hospedado no github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios, <div id="cor">clique na seta para expandir e ver os desafios</div>.</strong></h2>
+<h2><strong>Esta é a página principal do meu site hospedado no github, com objetivo de facilitar a navegação e visualização dos meus sites feitos em desafios, <span id="cor" >clique na seta para expandir e ver os desafios.</span></strong></h2>
 
 <h3>Acesse os PDF's dos desafios clicando <a id="aqui" href="https://github.com/TascaXD" target="_blank">AQUI</a>, basta ir ao módulo desejado, o desafio desejado e ir no PDF.</h3>
 

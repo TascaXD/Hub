@@ -20,21 +20,23 @@ rgb(141, 178, 230),
 rgb(147, 173, 231));
  }
 
-li,#aqui:hover{
+#aqui:hover{color: rgba(255, 255, 255, 0.493);}
+
+li:hover{
   color: rgba(255, 255, 255, 0.493);
 }
 a,li,ul{
   width: fit-content;
 }
-a:link{
+#aqui{color: #0366d6;}
+a,:link{
   color: #0366d6;
 }
-a:visited{
+a,#aqui:visited{
   color: white;
 } 
 
 #cor{
  color:#0366d6;
- display: inline-block;
+ cursor: default;
 }
-h2{width: 100%;}
