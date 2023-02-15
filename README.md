@@ -120,6 +120,17 @@
 
 </div>
 
+<h3>JAVASCRIPT  <span class="menu-icon">⇨</span> </h3> 
+
+<div class="desafios-menu">
+    <h4>PRIMEIROS PASSOS COM JAVASCRIPT:</h4>
+    <ul>
+        <a href="https://tascaxd.github.io/Curso-Javascript/index.html" target="_blank">
+        <li>Perguntas com Javascript (responsivo para todos dispositivos)</li>
+    </a>
+    </ul>
+</div>
+
 <script src="script.js"></script>
 </body>
 </html>
