@@ -20,48 +20,47 @@
 
 <ul class="desafios-menu">
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO%201/desafio1.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO%201/desafio1.html" target="_blank">
 <li>Desafio 1</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO%202/desafio2.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO%202/desafio2.html" target="_blank">
 <li>Desafio 2</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO%203/desafio3.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO%203/desafio3.html" target="_blank">
 <li>Desafio 3</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO%204/desafio4.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO%204/desafio4.html" target="_blank">
 <li>Desafio 4</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO%205/desafio5.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO%205/desafio5.html" target="_blank">
 <li>Desafio 5</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO6/desafio6.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO6/desafio6.html" target="_blank">
 <li>Desafio 6</li>
 </a>
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO7/desafio7.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO7/desafio7.html" target="_blank">
 <li>Desafio 7</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO8/desafio8.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO8/desafio8.html" target="_blank">
 <li>Desafio 8</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-1/DESAFIO9/desafio9.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-1/DESAFIO9/desafio9.html" target="_blank">
 <li>Desafio 9</li>
 </a>
-
 </ul>
 
 <h4>DESAFIOS DO MÓDULO 2:<span class="menu-icon">⇨</span></h4>
 
 <ul class="desafios-menu">
 
-<a href="https://tascaxd.github.io/modulo-2/pagina2.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-2/pagina2.html" target="_blank">
 <li>Site do mascote do Android</li>
 </a>
 
@@ -71,19 +70,19 @@
 
 <ul class="desafios-menu">
 
-<a href="https://tascaxd.github.io/modulo-3/desafio%20cordel/cordel.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-3/desafio%20cordelcordel.html" target="_blank">
 <li>Site do Cordel Moderno</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-3/desafio%20tabelas/table.html" target="_blank">
 <li>Desafio tabela 1</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table2.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-3/desafio%20tabelas/table2.html" target="_blank">
 <li>Desafio tabela 2</li>
 </a>
 
-<a href="https://tascaxd.github.io/modulo-3/desafio%20tabelas/table3.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-3/desafio%20tabelas/table3.html" target="_blank">
 <li>Desafio tabela 3</li>
 </a>
 
@@ -97,7 +96,7 @@
 <h4>DESAFIO DA NETFLIX:</h4>
 
 <ul>   
-<a href="https://tascaxd.github.io/NETFLIX/netflix.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/NETFLIX/netflix.html" target="_blank">
 <li>Página principal da Netflix</li>
 </a>
 </ul>
@@ -105,7 +104,7 @@
 <h4>DESAFIO TESTE DE MEDIA QUERIES:</h4>
 
 <ul>
-<a href="https://tascaxd.github.io/desafio-mq/index.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/Modulo-4-MEDIA-QUERY/desafio-mq-teste/index.html" target="_blank">
 <li>Site responsivo para celular e telas +768px</li>
 </a>
 </ul>
@@ -113,7 +112,7 @@
 <h4>DESAFIO DE DESENHAR COM CSS:</h4>
 
 <ul>
-<a href="https://tascaxd.github.io/projeto-relogio/relogio.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/projeto-relogio/relogio.html" target="_blank">
 <li>Relógio</li>
 </a>
 </ul>
