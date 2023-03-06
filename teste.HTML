@@ -70,7 +70,7 @@
 
 <ul class="desafios-menu">
 
-<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-3/desafio%20cordelcordel.html" target="_blank">
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/modulo-3/desafio%20cordel/cordel.html" target="_blank">
 <li>Site do Cordel Moderno</li>
 </a>
 
@@ -122,10 +122,10 @@
 <h3>JAVASCRIPT  <span class="menu-icon">⇨</span> </h3> 
 
 <div class="desafios-menu">
-    <h4>PRIMEIROS PASSOS COM JAVASCRIPT:</h4>
+    <h4>EXERCÍCIOS JAVASCRIPT (CURSO EM VÍDEO):</h4>
     <ul>
-        <a href="https://tascaxd.github.io/Curso-Javascript/index.html" target="_blank">
-        <li>Perguntas com Javascript (responsivo para todos dispositivos)</li>
+        <a href="https://tascaxd.github.io/PROJETOS/JAVASCRIPT/CURSO-EM-VIDEO/Verificador%20de%20idade/index.html" target="_blank">
+        <li>Verificador de idades</li>
     </a>
     </ul>
 </div>
