@@ -127,6 +127,15 @@
         <a href="https://tascaxd.github.io/PROJETOS/JAVASCRIPT/CURSO-EM-VIDEO/Verificador%20de%20idade/index.html" target="_blank">
         <li>Verificador de idades</li>
     </a>
+    <a href="https://tascaxd.github.io/PROJETOS/JAVASCRIPT/CURSO-EM-VIDEO/Analisador%20de%20Números/index.html" target="_blank">
+    <li>Analisador de Números</li>
+    </a>
+        <a href="https://tascaxd.github.io/PROJETOS/JAVASCRIPT/CURSO-EM-VIDEO/Contador/index.html" target="_blank">
+    <li>Contador</li>
+    </a>
+        <a href="https://tascaxd.github.io/PROJETOS/JAVASCRIPT/CURSO-EM-VIDEO/Gerador%20de%20tabuada/index.html" target="_blank">
+    <li>Gerador de Tabuadas</li>
+    </a>
     </ul>
 </div>
 
