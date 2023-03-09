@@ -139,6 +139,16 @@
     </ul>
 </div>
 
+<div class="desafios-menu">
+    <h4>PROJETOS JAVASCRIPT:</h4>   
+<ul>
+  <a href="https://tascaxd.github.io/PROJETOS/JAVASCRIPT/Gerador%20de%20senhas/index.html" target="_blank">
+        <li>Gerador de senhas</li>
+    </a>
+</ul>
+</div>
+
+
 <script src="script.js"></script>
 </body>
 </html>
