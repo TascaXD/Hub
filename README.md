@@ -88,6 +88,20 @@
 
 </ul>
 
+<h4>DESAFIOS DO MÓDULO 4:<span class="menu-icon">⇨</span></h4>
+
+<ul class="desafios-menu">
+
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/Modulo-4-MEDIA-QUERY/desafio-mq-teste/index.html" target="_blank">
+<li>Site responsivo teste usando Media Query</li>
+</a>
+
+<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/Modulo-4-MEDIA-QUERY/desafio-mq-login/index.html" target="_blank">
+<li>Tela de login responsivo com Media Query</li>
+</a>
+
+</ul>
+
 </div>
 
 <h3>OUTROS DESAFIOS:  <span class="menu-icon">⇨</span> </h3> 
@@ -98,14 +112,6 @@
 <ul>   
 <a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/NETFLIX/netflix.html" target="_blank">
 <li>Página principal da Netflix</li>
-</a>
-</ul>
-
-<h4>DESAFIO TESTE DE MEDIA QUERIES:</h4>
-
-<ul>
-<a href="https://tascaxd.github.io/PROJETOS/HTML%2BCSS/CURSO-EM-VIDEO/Modulo-4-MEDIA-QUERY/desafio-mq-teste/index.html" target="_blank">
-<li>Site responsivo para celular e telas +768px</li>
 </a>
 </ul>
 
